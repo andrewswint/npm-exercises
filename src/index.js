@@ -5,7 +5,7 @@ $(document).ready(function () {
     sayHello();
 
     $('body').css({
-        "background-color": "red"
+        "background-color": "blue"
     });
 });
 
